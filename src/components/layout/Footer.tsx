@@ -28,7 +28,7 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <Link to="/" className="font-heading text-2xl tracking-wide text-foreground">
-              CHIC & MODERN
+              LUCAS HANSEN
             </Link>
             <p className="mt-4 text-muted-foreground text-sm leading-relaxed max-w-sm">
               Curating timeless pieces for the modern wardrobe. Effortless elegance meets sustainable fashion.
@@ -110,7 +110,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © {new Date().getFullYear()} Chic & Modern. All rights reserved.
+            © {new Date().getFullYear()} LUCAS HANSEN. All rights reserved.
           </p>
           <div className="flex items-center gap-6 text-sm text-muted-foreground">
             <a href="#" className="hover:text-foreground transition-colors">Privacy Policy</a>

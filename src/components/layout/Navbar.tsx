@@ -24,7 +24,7 @@ export function Navbar() {
             to="/" 
             className="font-heading text-xl md:text-2xl tracking-wide text-foreground hover:text-muted-foreground transition-colors"
           >
-            CHIC & MODERN
+            LUCAS HANSEN
           </Link>
 
           {/* Desktop Navigation */}

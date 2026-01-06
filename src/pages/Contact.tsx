@@ -6,10 +6,10 @@ import { Button } from '@/components/ui/button';
 import { useToast } from '@/hooks/use-toast';
 
 const contactInfo = {
-  representative: 'BRIANNA STRAUT',
-  email: 'MendozaEric8907@outlook.com',
-  address: 'Tazan Avenue 109 Florence Mississippi 39073',
-  phone: '+1 3075073645',
+  representative: 'LUCAS HANSEN',
+  email: 'zryecswom7956@hotmail.com',
+  address: '554 E Haskell St, Winnemucca, Nevada 89445',
+  phone: '+1 2832830013',
 };
 
 export default function Contact() {
@@ -143,7 +143,7 @@ export default function Contact() {
               <div className="mt-12 aspect-video bg-secondary border border-border flex items-center justify-center">
                 <div className="text-center">
                   <MapPin className="w-8 h-8 text-muted-foreground mx-auto mb-2" />
-                  <p className="text-muted-foreground text-sm">Florence, Mississippi</p>
+                  <p className="text-muted-foreground text-sm">Winnemucca, Nevada</p>
                 </div>
               </div>
             </motion.div>

@@ -52,7 +52,7 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Founded on the belief that true style transcends fleeting trends, Chic & Modern 
+                  Founded on the belief that true style transcends fleeting trends, LUCAS HANSEN 
                   curates a collection of essential pieces designed to form the foundation of a 
                   refined wardrobe.
                 </p>
